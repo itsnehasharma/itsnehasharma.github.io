@@ -1,5 +1,5 @@
 .body {
-  background-color: #014656 ;
+  background-color: #FAEBD7 ;
 }
 
 .vertical-center {
@@ -12,6 +12,7 @@
 
 .introPage {
 
+  /* color: #680743; */
   color: white;
   font-weight: lighter;
   background-color: #014656
@@ -20,7 +21,7 @@
 }
 .introPage p{
   font-size: 28px;
-  text-align: center;
+  /* text-align: center; */
 }
 
 .introPage h1 {
@@ -44,10 +45,35 @@
   text-align: left;
 }
 
+.link {
+  color: white;
+  font-size: 18px;
+  border-radius: 10px;
+  padding: 10px;
+  border: 1px solid;
+}
+
+.link:hover {
+  color: #f9ddfc;
+  underline: none;
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
 .btn-1 {
-  color: #ffffff;
-  background-color: #680743;
-  border-color: #44052c;
+  /* color: #ffffff; */
+  color: #680743;
+  /* background-color: transparent; */
+  background-color: white;
+  border: 2px solid #680743;
+  border-color: #680743;
 }
 .btn-1:focus,
 .btn-1.focus {
