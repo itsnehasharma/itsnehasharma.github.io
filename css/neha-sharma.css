@@ -127,3 +127,11 @@ fieldset[disabled] .btn-1.focus {
   color: #014656;
   background-color: #ffffff;
 }
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+  body{
+    font-size: 60px;
+  }
+}
