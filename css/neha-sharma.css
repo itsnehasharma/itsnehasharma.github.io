@@ -1,0 +1,17 @@
+.body {
+  background-color: #b76e79 ;
+}
+
+.jumbotron{
+  background-color: #b76e79;
+}
+
+.introPage {
+  font-size: 48px;
+  color: white;
+  font-weight: lighter;
+  /* font-family: "Open-Sans"; */
+}
+.introPage p{
+  font-size: 20px;
+}
