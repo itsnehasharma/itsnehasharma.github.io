@@ -1,5 +1,5 @@
 .body {
-  background-color: #FAEBD7 ;
+  background-color: #680743 ;
 }
 
 .vertical-center {
@@ -24,9 +24,11 @@
   /* text-align: center; */
 }
 
+
 .introPage h1 {
+  font-weight: lighter;
   text-align: center;
-  font-size: 48px;
+  font-size: 60px;
 }
 
 .center-block {
