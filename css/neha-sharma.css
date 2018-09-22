@@ -25,6 +25,10 @@
 .navbar-custom a{
   color: #ffffff;
 }
+
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+}
 .navbar-default {
 
   background-image: none;
