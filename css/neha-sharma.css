@@ -15,6 +15,11 @@
 .iframe-custom h3{
   color: #680743;
   float: center;
+  font-size: 20px;
+}
+
+.iframe-custom iframe{
+  float: center;
 }
 
 .navbar-custom{
@@ -70,6 +75,7 @@
 
 .centered{
   text-align: center;
+  align-items: center;
 }
 
 .right-align {
