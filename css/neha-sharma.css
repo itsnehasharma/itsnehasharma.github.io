@@ -11,6 +11,11 @@
   border-color: #000000;
 
 }
+
+.titles{
+  color:  #680743
+  float: center;
+}
 .navbar-custom{
   background-color:#680743;
 }
