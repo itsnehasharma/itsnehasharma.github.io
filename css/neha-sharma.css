@@ -19,6 +19,10 @@
 
 .navbar-custom{
   background-color:#680743;
+
+}
+
+.navbar-custom a{
   color: #ffffff;
 }
 .navbar-default {
