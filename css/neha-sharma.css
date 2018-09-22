@@ -2,8 +2,11 @@
   background-color: #680743 ;
 }
 
-.navbar-default {
+.navbar-custom{
   background-color:#680743;
+}
+.navbar-default {
+
   background-image: none;
   background-repeat: no-repeat;
  }
