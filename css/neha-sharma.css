@@ -24,22 +24,41 @@
 
 .navbar-custom{
   background-color:#680743;
+  color: #ffffff;
 
 }
 
-.navbar-custom a{
+#bootstrap-overrides .navbar-custom a{
   color: #ffffff;
 }
 
-.nav.navbar-nav.navbar-right li a {
-    color: white;
+#bootstrap-overrides .dropdown-menu {
+  background-color: #680743;
 }
-.navbar-default {
 
-  background-image: none;
-  background-repeat: no-repeat;
- }
+#bootstrap-overrides .dropdown-item:hover  {
+  background-color: #863868;
+}
 
+
+
+
+
+
+.navbar-default .navbar-brand {
+  color: white;
+}
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+.navbar-default .navbar-brand:hover {
+  color: black;
+  opacity: 0.75;
+}
+.navbar-default .navbar-nav > li > a:hover {
+  color: black;
+  opacity: 0.75;
+}
 .vertical-center {
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
   min-height: 100vh; /* These two lines are counted as one :-)       */
