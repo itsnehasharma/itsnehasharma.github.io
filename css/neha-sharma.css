@@ -2,9 +2,11 @@
   background-color: #680743 ;
 }
 
-.navbar{
-  color:  #680743 ;
-}
+.navbar-default {
+  background-color:#680743;
+  background-image: none;
+  background-repeat: no-repeat;
+ }
 
 .vertical-center {
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
