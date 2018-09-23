@@ -188,7 +188,7 @@ a:hover{
   font-size: 36px;
 }
 
-.titles:hover {
+.titles:hover a {
   color: #d387ca;
   underline: none;
   text-decoration: none;
