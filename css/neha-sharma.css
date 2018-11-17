@@ -1,3 +1,12 @@
+.depop-nav{
+
+  overflow: hidden;
+  background-color: #680743;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 .body-home {
   background-color: #680743 ;
 }
