@@ -59,6 +59,10 @@ iframe: hover{
 
 .project-display
 
+img {
+    image-orientation: from-image;
+}
+
 .image {
   opacity: 1;
   display: block;
@@ -66,8 +70,12 @@ iframe: hover{
   height: auto;
   transition: .5s ease;
   backface-visibility: hidden;
+  image-orientation: from-image;
 }
 
+.croatia-pic{
+  -ms-transform: rotate(90deg);
+}
 .middle {
   transition: .5s ease;
   opacity: 0;
